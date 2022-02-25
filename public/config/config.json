@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0xb4f2415e204978f5A758E388B9a2a82912Ce2252",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xb4f2415e204978f5A758E388B9a2a82912Ce2252",
+  "NETWORK": {
+    "NAME": "Polygon Testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Freaky Heads NFT",
+  "SYMBOL": "FHNFT",
+  "MAX_SUPPLY": 111,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/freakyheadsnft",
+  "TWITTER": "Twitter",
+  "TWITTER_LINK": "https://twitter.com",
+  "SHOW_BACKGROUND": true
+}
